@@ -4,6 +4,7 @@ Introduction:
            
 Required Libraries :
                  pandas, numpy, seaborn, matplotlib, sklearn, tkinter.
+                 
 Steps:
      -> First EDA(Exploratory Data Analysis) is performed to get insights from the dataset.
      
@@ -21,4 +22,5 @@ Steps:
                                      (G1,G2)previous exams.
 
 Conclusion:
+
          If the studemt's health is less than 3 say(1 - good, 2 - moderate) they are performing good in exams.
