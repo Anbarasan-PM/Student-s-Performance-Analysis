@@ -6,6 +6,7 @@ Required Libraries :
                  pandas, numpy, seaborn, matplotlib, sklearn, tkinter.
                  
 Steps:
+
      -> First EDA(Exploratory Data Analysis) is performed to get insights from the dataset.
      
      -> Finding the unnecessary features from the insights that will be required for furthur analysis.
