@@ -24,4 +24,4 @@ Steps:
 
 Conclusion:
 
-        Heaath is not affecting the performance of the students in the (G3) final exam.
+        Heaath is not affecting the performance of the students in (G3) the final exam.
