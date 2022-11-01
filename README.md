@@ -1,6 +1,6 @@
 # Student's-Performance-Analysis
-Why ?
-The economic success of any country depends on making higher education more affordable and that is one of the main concerns for any government. One of the factors that contributes to the educational expenses is the studying time spent by students. Machine learning techniques can be used to predict the performance of the students and identify the at-risk students as early as possible. This research examines how student’s health is affected by various factors such as time spent on social networks etc and predicting G3 by considering some other factors such as G1 and G2. Random Forest and Linear Regression techniques have been used to build the machine learning model. The dataset was data was obtained in a survey of students' math course in secondary school during the year 2019-2020.
+Introduction:
+           The economic success of any country depends on making higher education more affordable and that is one of the main concerns for any government. One of the factors that contributes to the educational expenses is the studying time spent by students. Machine learning techniques can be used to predict the performance of the students and identify the at-risk students as early as possible. This research examines how student’s health is affected by various factors such as time spent on social networks etc and predicting G3 by considering some other factors such as G1 and G2. Random Forest and Linear Regression techniques have been used to build the machine learning model. The dataset was data was obtained in a survey of students' math course in secondary school during the year 2019-2020.
 Required Libraries :
                  pandas, numpy, seaborn, matplotlib, sklearn, tkinter.
 Steps:
