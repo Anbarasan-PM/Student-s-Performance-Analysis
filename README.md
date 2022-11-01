@@ -24,4 +24,4 @@ Steps:
 
 Conclusion:
 
-         If the studemt's health is less than 3 say(1 - good, 2 - moderate) they are performing good in exams.
+        Heaath is not affecting the performance of the students in the (G3) final exam.
